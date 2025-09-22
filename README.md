@@ -23,7 +23,16 @@ This tool is for educational purposes only. Users are responsible for their own 
 **1. Standard Installation:**
 
 ```bash
+# Download
+git clone https://github.com/loals2sa/fouadpish.git
+
+# Go to folder
+cd fouadpish
+
+# Make executable
 chmod +x fouad.sh
+
+# Run tool
 ./fouad.sh
 ```
 
